@@ -1,4 +1,5 @@
-# Face_Recognition_Attendance_System
+Student-Attendance-Monitoring-System-using-Face-Recognition
+
 
 The objective of this project is to process live video-stream of students entering their classroom and generate the list of students attending the class. The system is coded in Python using OpenCv , Tkinter and MySQL.
 
